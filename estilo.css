@@ -1,0 +1,27 @@
+<style>
+    /* Elemento */
+    h1 {
+        text-align: center;
+        color: red;
+    }
+
+    p {
+        color: blueviolet;
+    }
+
+    /* ID */
+
+    #meuid {
+        color: black;
+    }
+
+    .minhaclasse {
+        color: green;
+        text-align: justify;
+    }
+
+    /* Universal */
+    * {
+        color: blue
+    }
+</style>
